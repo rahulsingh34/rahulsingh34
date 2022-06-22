@@ -1,7 +1,7 @@
 Hi 👋 I'm Rahul Singh
 ============================
 
-Finance Student
+Finance Student + Self Proclaimed Programmer
 ---------------
 
 I started my coding journey in December of 2021. I love being able to add new tools to my belt for solving problems.
