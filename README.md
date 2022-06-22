@@ -8,7 +8,7 @@ I started coding in December of 2021. After realizing the power of VBA, I dove d
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [rsingh20@uoguelph.ca](mailto:rsingh20@uoguelph.ca)
-* 🤝  I'm open to collaborating on literally anything, let's build something cool.
+* 🤝  I'm open to collaborating on literally anything, let's build something cool!
 
 ### Skills
 
