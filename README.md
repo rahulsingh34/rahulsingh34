@@ -4,7 +4,7 @@ Hi 👋 I'm Rahul
 Finance Student + Self Proclaimed Programmer
 ---------------
 
-I started my coding journey in December of 2021. I love being able to add new tools to my belt for solving problems.
+I started my coding in December of 2021. After realizing the power of VBA, I dove deeper into Automation and Web Development. I haven't looked back since!
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [rsingh20@uoguelph.ca](mailto:rsingh20@uoguelph.ca)
