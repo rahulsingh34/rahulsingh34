@@ -1,4 +1,4 @@
-Hi 👋 My name is Rahul Singh
+Hi 👋 I'm Rahul Singh
 ============================
 
 Finance Student
