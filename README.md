@@ -1,4 +1,4 @@
-Hi 👋 I'm Rahul Singh
+Hi 👋 I'm Rahul
 ============================
 
 Finance Student + Self Proclaimed Programmer
