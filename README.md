@@ -1,7 +1,7 @@
 Hi  👋  I'm Rahul
 ===================================================================================================================================
 
-Finance Student + Developer
+Finance Student + Web Developer
 ----------------------------
 
 I started coding in December of 2021. After realizing the power of VBA, I dove deeper into Automation and Web Development. I haven't looked back since!
