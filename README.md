@@ -4,7 +4,7 @@ Hi  👋  I'm Rahul
 Finance Student + Web Developer
 ----------------------------
 
-I started coding in December of 2021. After realizing the power of VBA, I dove deeper into Automation and Web Development. I haven't looked back since!
+I started coding in December of 2021. After realizing the power of VBA, I dove deeper into Automation, Data Analysis, and Web Development.
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [rsingh20@uoguelph.ca](mailto:rsingh20@uoguelph.ca)
