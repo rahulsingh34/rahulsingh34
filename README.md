@@ -9,8 +9,7 @@ While I focus on Automation and Web Development, I like to try anything that int
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [rsingh20@uoguelph.ca](mailto:rsingh20@uoguelph.ca)
 * 🧠  Right now I'm working on machine learning in Python!
-* 🚀  Also building something crazy, stay tuned!
-* 🚀  Also building something crazy, stay tuned!
+* ❗  All my cool projects are private but feel free to reach out if you're curious!
 
 ### Skills
 
