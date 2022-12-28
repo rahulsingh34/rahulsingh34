@@ -4,11 +4,12 @@ Hi  👋  I'm Rahul
 Economics & Finance Student + Developer
 ----------------------------
 
-While I focus on Automation and Web Development, I like to try anything that interests me!
+While I focus on Automation and Web Development, I like to try anything that interests me! 
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [rsingh20@uoguelph.ca](mailto:rsingh20@uoguelph.ca)
 * 🧠  Right now I'm working on machine learning in Python!
+* 🚀  Also building something crazy, stay tuned!
 * 🚀  Also building something crazy, stay tuned!
 
 ### Skills
