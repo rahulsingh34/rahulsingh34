@@ -4,7 +4,7 @@ Hi  👋  I'm Rahul
 Economics & Finance Student + Developer
 ----------------------------
 
-I started programming in December of 2021. While I focus on Automation and Web Development, I like to try anything that interests me!
+While I focus on Automation and Web Development, I like to try anything that interests me!
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [rsingh20@uoguelph.ca](mailto:rsingh20@uoguelph.ca)
