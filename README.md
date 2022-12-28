@@ -1,14 +1,14 @@
 Hi  👋  I'm Rahul
 ===================================================================================================================================
 
-Economics & Finance Student + Web Developer
+Economics & Finance Student + Developer
 ----------------------------
 
-I started programming in December of 2021. After realizing the power of VBA, I dove deeper into Automation and Web Development.
+I started programming in December of 2021. While I focus on Automation and Web Development, I like to try anything that interests me!
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [rsingh20@uoguelph.ca](mailto:rsingh20@uoguelph.ca)
-* 🧠  Right now I'm working on my data analysis skills in Python!
+* 🧠  Right now I'm working on machine learning in Python!
 * 🚀  Also building something crazy, stay tuned!
 
 ### Skills
