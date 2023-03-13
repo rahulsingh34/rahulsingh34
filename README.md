@@ -8,7 +8,6 @@ While I initally started with Automation and Web Development, I'm currently divi
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [rsingh20@uoguelph.ca](mailto:rsingh20@uoguelph.ca)
-* 🧠  Right now I'm working on a machine learning course!
 * ❗  All my cool projects are private but feel free to reach out if you're curious!
 
 ### Skills
