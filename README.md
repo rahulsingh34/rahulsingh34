@@ -7,7 +7,7 @@ Economics & Finance Student + Developer
 While I initally started with Automation and Web Development, I'm currently diving deeper into analytics and machine learning!
 
 * 🌍  I'm based in Toronto, Canada
-* ✉️  You can contact me at [rsingh20@uoguelph.ca](mailto:rsingh20@uoguelph.ca)
+* ✉️  You can contact me at [singh434rahul@gmail.com](mailto:singh434rahul@gmail.com)
 * ❗  All my cool projects are private but feel free to reach out if you're curious!
 
 ### Skills
