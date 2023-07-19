@@ -1,7 +1,7 @@
 Hi  👋  I'm Rahul
 ===================================================================================================================================
 
-Jack of all trades Developer
+Jack-of-all-trades Developer
 ----------------------------
 
 While I initally started with Automation and Web Development, I'm currently diving deeper into Analytics and Machine Learning!
