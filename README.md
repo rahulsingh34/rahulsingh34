@@ -6,10 +6,10 @@ Jack-of-all-trades Developer
 
 While I initally started with Automation and Web Development, I'm currently diving deeper into Analytics and Machine Learning!
 
-* 🌍  I'm based in Toronto, Canada
-* ✉️  You can contact me at [singh434rahul@gmail.com](mailto:singh434rahul@gmail.com)
-* ❗  All my cool projects are private but you can view some of them <a href="https://rahulsingh34.github.io/portfolio/projects.html" target="_blank" rel="noreferrer">here</a>
-* Check out my <a href="https://chrome.google.com/webstore/detail/business-page-scraper/ihgekjbpekenihbnmgbflcfpeoepklkm" target="_blank" rel="noreferrer">Chrome Extension!</a>
+* 🌍 I'm based in Toronto, Canada
+* ✉️ You can contact me at [singh434rahul@gmail.com](mailto:singh434rahul@gmail.com)
+* ❗ All my cool projects are private but you can view some of them <a href="https://rahulsingh34.github.io/portfolio/projects.html" target="_blank" rel="noreferrer">here</a>
+* ⭐ Check out my <a href="https://chrome.google.com/webstore/detail/business-page-scraper/ihgekjbpekenihbnmgbflcfpeoepklkm" target="_blank" rel="noreferrer">Chrome Extension!</a>
 
 ### Skills
 
