@@ -9,7 +9,7 @@ While I initally started with Automation and Web Development, I'm currently divi
 * 🌍 &nbsp; I'm based in Toronto, Canada
 * ✉️  &nbsp; You can contact me at [singh434rahul@gmail.com](mailto:singh434rahul@gmail.com)
 * ❗ &nbsp; All my cool projects are private but you can view some of them <a href="https://rahulsingh34.github.io/portfolio/projects.html" target="_blank" rel="noreferrer">here</a>
-* ⭐ &nbsp; Check out my <a href="https://chrome.google.com/webstore/detail/business-page-scraper/ihgekjbpekenihbnmgbflcfpeoepklkm" target="_blank" rel="noreferrer">Chrome Extension!</a>
+* ⭐ &nbsp; Check out my <a href="https://chrome.google.com/webstore/detail/business-page-scraper/ihgekjbpekenihbnmgbflcfpeoepklkm" target="_blank" rel="noreferrer">Chrome Extension</a>
 
 ### Skills
 
