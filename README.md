@@ -42,3 +42,5 @@ While I initally started with Automation and Web Development, I'm currently divi
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/rahulsingh34" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rahulsingh-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh34&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
