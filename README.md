@@ -4,7 +4,7 @@ Hi  👋  I'm Rahul
 Jack-of-all-trades Developer
 ----------------------------
 
-Automation | Web Development | Analytics | Machine Learning | Artificial Intelligence
+Automation | Web Development | Analytics | Machine Learning | Deep Learning | Artificial Intelligence
 
 * 🌍 &nbsp; I'm based in Toronto, Canada
 * ✉️  &nbsp; You can contact me at [singh434rahul@gmail.com](mailto:singh434rahul@gmail.com)
