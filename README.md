@@ -7,7 +7,6 @@ Jack-of-all-trades Developer
 Automation | Web Development | Analytics | Machine Learning | Deep Learning | Artificial Intelligence
 
 * 🌍 &nbsp; I'm based in Toronto, Canada
-* ✉️  &nbsp; You can contact me at [singh434rahul@gmail.com](mailto:singh434rahul@gmail.com)
 * ⭐ &nbsp; Check out my <a href="https://chrome.google.com/webstore/detail/business-page-scraper/ihgekjbpekenihbnmgbflcfpeoepklkm" target="_blank" rel="noreferrer">Chrome extension</a>
 
 ### Skills
