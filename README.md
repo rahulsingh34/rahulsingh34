@@ -7,8 +7,7 @@ Jack-of-all-trades Developer
 Automation | Web Development | Analytics | Machine Learning | Deep Learning | Artificial Intelligence
 
 * 🌍 &nbsp; I'm based in Toronto, Canada
-* 🚀 &nbsp; Check out my <a href="https://sveltepack.com" target="_blank">boilerplate</a>
-* ⭐ &nbsp; Check out my <a href="https://chrome.google.com/webstore/detail/business-page-scraper/ihgekjbpekenihbnmgbflcfpeoepklkm" target="_blank" rel="noreferrer">Chrome extension</a>
+* 🚀 &nbsp; Check out these things that I've built: <a href="https://chrome.google.com/webstore/detail/business-page-scraper/ihgekjbpekenihbnmgbflcfpeoepklkm" target="_blank">Chrome extension</a> | <a href="https://sveltepack.com" target="_blank">boilerplate</a> | <a href="https://usetinycms.com" target="_blank">Self-hosted Blog CMS</a>
 
 ### Skills
 
