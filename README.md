@@ -18,7 +18,7 @@ Jack-of-all-trades Developer
 
 ### Data
 <p align="left">
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="36" height="36" alt="big query" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="36" height="36" alt="big query" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="scikit-learn" /></a>  
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="36" height="36" alt="pytorch" /></a>
 </p>
