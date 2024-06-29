@@ -1,11 +1,11 @@
 Hi  👋  I'm Rahul
 ===================================================================================================================================
 
-Jack-of-all-trades Developer
+Data Developer
 ----------------------------
 
 * 🌍 &nbsp; I'm based in Toronto, Canada
-* 🚀 &nbsp; Check out what I've built: <a href="https://chrome.google.com/webstore/detail/business-page-scraper/ihgekjbpekenihbnmgbflcfpeoepklkm" target="_blank">Chrome extension</a> | <a href="https://sveltepack.com" target="_blank">boilerplate</a> | <a href="https://usetinycms.com" target="_blank">self-hosted blog CMS</a>
+* 🚀 &nbsp; What I've built recently: <a href="https://github.com/rahulsingh34/f1-etl" target="_blank">F1 ETL Pipeline</a>
 
 ### Core
 <p align="left">
