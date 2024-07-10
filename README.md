@@ -19,7 +19,7 @@ Data Developer
 </p>
 
 ### Data
-<p align="left">
+<p align="left flex gap-1">
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="36" height="36" alt="big query" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png" width="36" height="36" alt="dbt" /></a>
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://d7umqicpi7263.cloudfront.net/img/product/94d64dd1-f8ff-4167-8e78-771627fe37a0/0a77d547-ec62-437b-a7e3-2fc39606fea1.png" width="36" height="36" alt="aws" /></a>
