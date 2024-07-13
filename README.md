@@ -15,8 +15,7 @@ Data Developer
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://learn.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer"><img src="https://cdn3.iconfinder.com/data/icons/flat-design-development-set-1/24/file-type-vba-512.png" width="36" height="36" alt="VBA" /></a>  
-</p>
+<a href="https://learn.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer"><img src="https://cdn3.iconfinder.com/data/icons/flat-design-development-set-1/24/file-type-vba-512.png" width="36" height="36" alt="VBA" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331370/docker.svg" width="36" height="36" alt="docker" /></a>  
 </p>
 
