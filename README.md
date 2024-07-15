@@ -4,7 +4,7 @@ Hi  👋  I'm Rahul
 Data Developer
 ----------------------------
 
-#### Recent Work
+### Recent Work
 <div align="left">
 <p align="left">
   🏎️ &nbsp; <a href="https://github.com/rahulsingh34/f1-etl" target="_blank">F1 ETL Pipeline</a>
@@ -13,6 +13,8 @@ Data Developer
   💽 &nbsp; <a href="https://github.com/rahulsingh34/kafka-etl" target="_blank">Streaming Data Pipeline</a>
 </p>
 </div>
+
+## Skills
 
 ### Core
 <p align="left">
