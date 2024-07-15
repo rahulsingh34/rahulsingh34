@@ -4,8 +4,12 @@ Hi  👋  I'm Rahul
 Data Developer
 ----------------------------
 
+<p align="left">
+Recent Work
 🏎️ &nbsp; <a href="https://github.com/rahulsingh34/f1-etl" target="_blank">F1 ETL Pipeline</a>
 💽 &nbsp; <a href="https://github.com/rahulsingh34/kafka-etl" target="_blank">Streaming Data Pipeline</a>
+</p>
+
 
 ### Core
 <p align="left">
