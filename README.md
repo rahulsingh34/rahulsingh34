@@ -4,7 +4,7 @@ Hi  👋  I'm Rahul
 Data Developer - Analytics + Engineering
 ----------------------------
 
-### Recent Work
+### Recent Projects
 <div align="left">
 <p align="left">
   🏎️ &nbsp; <a href="https://github.com/rahulsingh34/f1-etl" target="_blank">F1 ETL Pipeline</a>
