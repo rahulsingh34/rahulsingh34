@@ -31,7 +31,7 @@ Data Developer - Analytics + Engineering
 ### Data
 <p align="left">
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="36" height="36" alt="big query" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png" width="36" height="36" alt="aws" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-File.png" width="36" height="36" alt="aws" /></a>
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://d7umqicpi7263.cloudfront.net/img/product/94d64dd1-f8ff-4167-8e78-771627fe37a0/0a77d547-ec62-437b-a7e3-2fc39606fea1.png" width="36" height="36" alt="dbt" /></a>
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="36" height="36" alt="apache airflow" /></a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" width="36" height="36" alt="apache spark" /></a>
