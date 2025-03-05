@@ -10,7 +10,7 @@ Data Developer - Analytics + Engineering
   🏎️ &nbsp; <a href="https://github.com/rahulsingh34/f1-etl" target="_blank">F1 ELT Pipeline</a>
 </p>
 <p align="left">
-  💽 &nbsp; <a href="https://github.com/rahulsingh34/kafka-etl" target="_blank">Event Streaming Pipeline</a>
+  💽 &nbsp; <a href="https://github.com/rahulsingh34/kafka-etl" target="_blank">Music App Event Streaming Pipeline</a>
 </p>
 </div>
 
