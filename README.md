@@ -12,6 +12,9 @@ Data Developer - Analytics + Engineering
 <p align="left">
   💽 &nbsp; <a href="https://github.com/rahulsingh34/kafka-etl" target="_blank">Music App Event Streaming Pipeline</a>
 </p>
+<p align="left">
+  🚀 &nbsp; <a href="https://github.com/rahulsingh34/kafka-etl" target="_blank">soarSQL - duckDB powered SQL Editor</a>
+</p>
 </div>
 
 ## Skills
