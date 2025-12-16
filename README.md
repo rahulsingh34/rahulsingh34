@@ -19,7 +19,7 @@ Data Developer - Analytics + Engineering
   📍 &nbsp; <a href="https://apify.com/huncho/google-maps-scraper" target="_blank">Google Maps Scraper</a>
 </p>
 <p align="left">
-  ⚡ &nbsp; <a href="https://getvurge.com" target="_blank">Vurge | AI Data Extraction inside Google Sheets</a>
+  ⚡ &nbsp; <a href="https://getvurge.com" target="_blank">Vurge - AI Data Extraction inside Google Sheets</a>
 </p>
 </div>
 
