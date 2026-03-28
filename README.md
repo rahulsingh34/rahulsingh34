@@ -13,7 +13,7 @@ Data Developer - Analytics + Engineering
   💽 &nbsp; <a href="https://github.com/rahulsingh34/kafka-etl" target="_blank">Music App Event Streaming Pipeline</a>
 </p>
 <p align="left">
-  🚀 &nbsp; <a href="https://soarsql.com" target="_blank">soarSQL - duckDB powered SQL Editor</a>
+  🚀 &nbsp; <a href="https://soarsql.netlify.app/" target="_blank">soarSQL - duckDB powered SQL Editor</a>
 </p>
 <p align="left">
   📍 &nbsp; <a href="https://apify.com/huncho/google-maps-scraper" target="_blank">Google Maps Scraper</a>
