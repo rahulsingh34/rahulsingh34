@@ -32,20 +32,23 @@ Data Developer - Analytics + Engineering
 
 ### Data
 <p align="left">
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="36" height="36" alt="big query" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-File.png" width="36" height="36" alt="aws" /></a>
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://d7umqicpi7263.cloudfront.net/img/product/94d64dd1-f8ff-4167-8e78-771627fe37a0/0a77d547-ec62-437b-a7e3-2fc39606fea1.png" width="36" height="36" alt="dbt" /></a>
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="36" height="36" alt="apache airflow" /></a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" width="36" height="36" alt="apache spark" /></a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" width="36" height="36" alt="apache kafka" /></a>
 <a href="https://tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="tableau" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="scikit-learn" /></a>  
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="36" height="36" alt="pytorch" /></a>
 </p>
 
+
 ### Web Development
 <p align="left">
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
