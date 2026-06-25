@@ -66,7 +66,3 @@ Data Developer - Analytics + Engineering
 <picture><a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://ayushmanbh.netlify.app/static/media/netlify.c779369f.svg" width="36" height="36" alt="Netlify" /></a></picture>
 <picture><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg" width="36" height="36" alt="Flask" /></a></picture>
 <picture><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a></picture>
-
-## Socials
-<picture><a href="https://www.github.com/rahulsingh34" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></picture>
-<picture><a href="https://www.linkedin.com/in/rahulsingh-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></picture>
